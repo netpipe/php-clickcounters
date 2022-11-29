@@ -4,7 +4,8 @@
 <body>
 
   <h1>Order Page</h1>
-
+<p>Check out <a href="./insect.php">insect</a>.</p>
+<p>Check out <a href="./trinket.php">trinket</a>.</p>
 <p>Check out <a href="./kills.php">kills</a>.</p>
 <p>Check out <a href="./bh.php">3-5 ton blackhole</a>.</p>
 <p>Check out <a href="./co2.php">1 ton of co2</a>.</p>
