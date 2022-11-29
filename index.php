@@ -18,6 +18,6 @@
 <p>Check out <a href="./datewithbossdaughter.php">date with bosses daughter</a>.</p>
 
 <br>
-for educational and speritual use<br>
+for educational and speritual use mainly for fun or joking<br>
 </body>
 </html>
