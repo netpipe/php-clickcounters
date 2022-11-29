@@ -19,13 +19,13 @@
        // echo "The insert function is called.";
 
 //https://www.propatel.com/visitor-counter-php-for-website/
-$visitors = file_get_contents('co2.txt');
+$visitors = file_get_contents('visitors.txt');
 $visitors = $visitors+1;
 
-file_put_contents('co2.txt',$visitors);
+file_put_contents('visitors.txt',$visitors);
 }
-$content = file_get_contents('co2.txt');
-echo $content . "testing";
+$content = file_get_contents('visitors.txt');
+echo $content . " public non refundable orders that might not be real";
 
 
 session_unset();

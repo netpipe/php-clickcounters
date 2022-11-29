@@ -25,7 +25,7 @@ $visitors = $visitors+1;
 file_put_contents('Kills.txt',$visitors);
 }
 $content = file_get_contents('Kills.txt');
-echo $content . "testing";
+echo $content . " public non refundable orders that might not be real";
 
 
 session_unset();
